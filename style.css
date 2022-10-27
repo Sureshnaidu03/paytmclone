@@ -1,0 +1,262 @@
+*{
+	margin: 0%;
+}
+.navbar{
+	padding: 2%;
+}
+.navbar img{
+	vertical-align: middle;
+}
+.navbar a{
+	color: black;
+	text-decoration: none;
+	font-size: 20px;
+	margin-left: 2%;
+}
+.logo{
+	margin: 0% 12% 0% 3%;
+}
+#signin{
+	margin-left: 15%;
+	background-color: #00baf2;
+	color: white;
+	border-radius: 25px;
+	padding: 0.5%;
+	text-align: center;
+}
+.dp{
+	background-color: whitesmoke;
+	font-size: 18px;
+	padding: 1%;
+}
+.sec2{
+	display: flex;
+	font-family: "poppins";
+	justify-content: space-between;
+	padding: 7% 0% 5% 8%;
+
+}
+.virat{
+	font-size: 50px;
+}
+.virat1{
+	font-size: 18px;
+}
+.virat2{
+	border: 1px solid black;
+	background-color: black;
+	color: white;
+	padding: 1%;
+	text-align: center;
+	width:59% ;
+	margin-top: 9%;
+	border-radius: 25px;
+}
+.virat2:hover{
+	background-color: white;
+	color: black;
+}
+.icon i{
+	margin-left: 4%;
+}
+.img1{
+	margin-bottom: 7%;
+}
+.virat3{
+	margin-top: 3%;
+	padding-top: 4%;
+	padding-left: 7%;
+	text-align: left;
+	font-size: 35px;
+	color: white;
+}
+.sec3{
+	margin-top: 0%;
+	margin-bottom: 0%;
+	background-color: #00adf2;
+	background-color height:10% ;
+}
+.virat4{
+	display: flex;
+	justify-content: space-around;
+	padding: 4% 4% 4%;
+	margin-left: 4%;
+	font-weight: bold;
+	text-decoration: none;
+}
+.virat4 a{
+	text-decoration: none;
+	color: white;
+}
+.virat5{
+	padding-top: 4%;
+	padding-left: 7%;
+	text-align: left;
+	font-size: 35px;
+	color: white;
+}
+.sec4{
+	margin-top: 0%;
+	margin-bottom: 0;
+	background-color: #2b54a6;
+}
+.virat6{
+	display: flex;
+	justify-content: space-around;
+	padding: 4% 4% 4%;
+	margin-left: 4%;
+	font-weight: bold;
+	text-decoration: none;
+	font-family: "poppins",sans-serif                                                       
+}
+.sec4 a{
+	text-decoration: none;
+	color: white;
+}
+.sec5{
+	background-color: rgba(239,239, 239,0.6);
+	padding: 5% 14%;
+}
+#h3{
+	margin-top: 8%;
+	margin-left: 10%;
+	font-size: 70px;
+	font-weight: bold;
+}
+.sec5div1{
+	display: flex;
+	justify-content: space-between;
+	background-color: white;
+	padding: 9%;
+	margin-top: 5%;
+}
+.wallet{
+	display: flex;
+}
+.fastest{
+	font-size: 40px;
+	font-weight: bold;
+	font-family: sans-serif;
+	margin-top: 7%;
+	margin-bottom: 5%;
+}
+.load{
+	font-size: 18px;
+	margin-bottom: 10%;
+}
+.virat2{
+	border: 1px solid black;
+	background-color: black;
+	color: white;
+	padding: 1%;
+	text-align: center;
+	width:59% ;
+	margin-top: 9%;
+	border-radius: 25px;
+}
+.sec6{
+	display: flex;
+	justify-content: center;
+	border: 1px solid white;
+	padding-top: 6%;
+	margin-top: 5%;
+}
+.virat2{
+	border: 1px solid black;
+	background-color: black;
+	color: white;
+	padding: 1%;
+	text-align: center;
+	width:59% ;
+	margin-top: 9%;
+	border-radius: 25px;
+}
+.virat2 hover{
+	background-color: white;
+	color: black;
+}
+.virat2 i{
+	margin: 0% 2%;
+}
+.19{
+	padding-left: 10%;
+	padding-bottom: 5%;
+}
+.virat7{
+	display: flex;
+	justify-content:flex-start;
+}
+.sec6{
+	border:1px ;
+	margin:5% 15%;
+	height: 520px;
+	padding:5%;
+}
+.sec7{
+	display: flex;
+	justify-content: space-between;
+	background-color: white;
+	padding: 9%;
+	margin-top: 5%;
+	border-radius: 20px;
+}
+.virat9{
+	background-color: white;
+	border-radius: 20px;
+	padding: 5% 2% 0% 5%;
+	margin: 5% 2%;
+}
+#learn:hover{
+	background-color: deepskyblue;
+}
+#learn{
+	color: white;
+	background-color: #043e7d;
+	text-align: center;
+	border-radius: 25px;
+	width: 28%;
+	padding: 3.5%;
+	letter-spacing: 1.5px;
+	font-family: sans-serif;
+	}
+.sec7{
+	display: flex;
+	padding: 2% 3%;
+}
+.virat10{
+	background-color: white;
+	border-radius: 20px;
+	padding: 5% 2% 0% 5%;
+	margin: 5% 2%;
+}
+.sbicard{
+	margin-top: 10%;
+}
+	.store{
+	font-size: 18px;
+	margin-bottom: 5%;
+	font-family: sans-serif;
+}
+.fastest{
+	font-size: 40px;
+	font-weight: bold;
+	font-family: sans-serif;
+	margin-top: 7%;
+}
+.virat10{
+	background-color: white;
+	border-radius: 20px;
+	padding: 5% 2% 0% 5%;
+	margin: 5% 2%;
+}
+.store{
+	font-size: 18px;
+	margin-bottom: 5%;
+	font-family: sans-serif;
+}
+.fastest{
+	font-size: 40px;
+	font-weight: bold;
+	font-family: sans-serif;
+	margin-top: 7%;
+}
